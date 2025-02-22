@@ -13,7 +13,7 @@ This project explores different regression models to predict housing prices usin
 - **Random Forest Regressor**
 
 ## Dataset
-The dataset used is `cali-housing.csv`, which contains features related to California housing prices, including numerical and categorical variables.
+The dataset used is `cali-housing.csv`, which contains features related to California housing prices, including numerical and categorical variables. Source: https://www.kaggle.com/datasets/shibumohapatra/house-price
 
 ## Preprocessing
 The following preprocessing steps are applied:
